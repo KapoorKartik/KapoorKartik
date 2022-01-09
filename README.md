@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there, 👋 I'm Kartik Kapoor &font=Fira%20Code&center=true&width=380&height=50">
 </p>
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there, 👋 I'm Kartik Kapoor &font=Fira%20Code&center=true&width=380&height=50">
 
 ### A Software Engineer from India
 
@@ -42,15 +43,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
-<br/>
 
-<br/>
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[here 🌐]: https://www.a.com
+[website]: https://kartik-kapoor-portfolio.vercel.app/
+[twitter]: https://twitter.com/kapoor_kartik20
+[linkedin]: www.linkedin.com/in/kartik-kapoor-j20
+[here 🌐]: https://kartik-kapoor-portfolio.vercel.app/
 [gmail]: mailto:kartikkapoor485@gmail.com
