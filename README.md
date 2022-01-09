@@ -3,8 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there, 👋 I'm Kartik Kapoor &font=Fira%20Code&center=true&width=380&height=50">
 </p>
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there, 👋 I'm Kartik Kapoor &font=Fira%20Code&center=true&width=380&height=50">
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://readme-typing-svg.herokuapp.com/?lines=Hi there, 👋 I'm Kartik Kapoor &font=Fira%20Code&center=true&width=380&height=50" />][twitter]
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
 ### A Software Engineer from India
 
@@ -22,10 +24,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />][gmail]
+[<img align="left" alt=" https://kartik-kapoor-portfolio.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />][gmail]
 
 <br />
 
