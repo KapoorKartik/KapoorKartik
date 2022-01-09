@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there, 👋 I'm Kartik Kapoor &font=Fira%20Code&center=true&width=380&height=50">
 </p>
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there, 👋 I'm Kartik Kapoor &font=Fira%20Code&center=true&width=380&height=50">
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://readme-typing-svg.herokuapp.com/?lines=Hi there, 👋 I'm Kartik Kapoor &font=Fira%20Code&center=true&width=380&height=50" />][twitter]
 
 ### A Software Engineer from India
 
