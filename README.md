@@ -43,6 +43,6 @@
 
 [website]: https://kartik-kapoor-portfolio.vercel.app/
 [twitter]: https://twitter.com/kapoor_kartik20
-[linkedin]: www.linkedin.com/in/kartik-kapoor-j20
+[linkedin]: https://www.linkedin.com/in/kartik-kapoor-j20/
 [here 🌐]: https://kartik-kapoor-portfolio.vercel.app/
 [gmail]: mailto:kartikkapoor485@gmail.com
